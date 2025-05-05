@@ -1,8 +1,9 @@
 # SamuelIndeche
-Hello welcome to the world of Samuel Indeche
+Hello!!
+Welcome to the world of Samuel Indeche
 I’m a passionate Python developer with a growing interest in cybersecurity ,Generative AI and LLMs. I enjoy learning about code and writing specifically technical writing and codes as well — from automating tasks to building secure systems.
 
-💻 What I Do
+💻 What I Do.
 🐍 Write Python scripts for automation, data handling, and problem-solving.
 
 🔒 Explore cybersecurity concepts like network security, threat detection, and ethical hacking.
@@ -11,7 +12,7 @@ I’m a passionate Python developer with a growing interest in cybersecurity ,Ge
 
 📚 Constantly learning about secure coding practices and system vulnerabilities.
 
-🧠 Skills & Tools
+🧠 Skills & Tools.
 Python (scripting, automation, debugging)
 
 Basic cybersecurity principles (OWASP, Linux commands, networking)
