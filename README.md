@@ -1,4 +1,4 @@
-# SamuelIndeche
+# Samuel Indeche
 Hello!!
 Welcome to the world of Samuel Indeche
 I’m a passionate Python developer with a growing interest in cybersecurity ,Generative AI and LLMs. I enjoy learning about code and writing specifically technical writing and codes as well — from automating tasks to building secure systems.
